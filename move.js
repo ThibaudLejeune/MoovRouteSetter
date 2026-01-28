@@ -16,7 +16,7 @@
     "Canne à pêche de main",
     "Mouvement électrique de main basse vers main haute en gardant le même pied",
     "Mains groupées avec pied diagonal vers main haute (impulsion)",
-    "Pif : ramener puis exploser dans un bac",
+    "Pif Paf: ramener puis exploser dans un bac",
     "Montée de talon en boîte pour se rétablir",
     "Attraper la main seulement après être remonté sur le talon",
     "Remplacer une compression de main par un talon pour aller chercher plus haut",
